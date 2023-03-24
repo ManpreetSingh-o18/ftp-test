@@ -38,4 +38,4 @@ jobs:
             **/.git*
             **/.git*/**
             **/node_modules/**
-          server-dir : /TestFTP/test-file
+          server-dir : /TestFTP/test-file/
